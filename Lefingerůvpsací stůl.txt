@@ -10,3 +10,5 @@ oprava
 ¨123
 abcd
 ahoj
+kafe
+
